@@ -1,3 +1,16 @@
+Project Title: To-do-list
+
+Organization: Code Clause
+
+Project Manager: Mr. Pratik Kate
+
+Description: To create a to-do list with a back-end that can save your progress! Sort multiple entries, have 
+different priorities, and create methods of filtering your list. 
+
+Responsibilities: Design of the TodoList Fullstack website.
+
+Duration: 1 month : 1-June-2023 to 30-June-2023
+
 Structure of TodoList full stack website :
 
 Main File :index.php
@@ -175,4 +188,4 @@ Main File :index.php
 
             *Database.php :The Database.php is used to establish connection to the sql database named "todo" in oredr to store task along with timestamp for creation and updation identified by a unique id.
 
-            *Task.php :The Task.php is used to register various task set by user and update database in the backend for each change in the tasks
+            *Task.php :The Task.php is used to register various task set by user and update database in the backend for each change in the tasks.   
