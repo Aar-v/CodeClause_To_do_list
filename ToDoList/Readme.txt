@@ -7,13 +7,13 @@ Project Manager: Mr. Pratik Kate
 Description: To create a to-do list with a back-end that can save your progress! Sort multiple entries, have 
 different priorities, and create methods of filtering your list. 
 
-Responsibilities: Design of the TodoList Fullstack website.
+Responsibilities: Design the TodoList Fullstack website.
 
-Duration: 1 month : 1-June-2023 to 30-June-2023
+Duration: 1 month: 1-June-2023 to 30-June-2023
 
 Structure of TodoList full stack website :
 
-Main File :index.php
+Main File: index.php
             |_php backend logic + website structure 
             |_php logic :
                 1.to get connected with the mysql database and to fetch the data inserted in input label using form and 
@@ -175,17 +175,17 @@ Main File :index.php
             </html>
 
 
-            *tyle.css :The style.css file is written to style the background image of website and container
+            *tyle.css: The style.css file is written to style the background image of the website and container
             which store the input label and tasks
 
-            *fontawesome.css :The fontawesome.css is style sheet genrerated from https://fontawesome.com/kits/5f80e78a4d/setup
-            to be used to style the icon and many other prop
+            *fontawesome.css: The fontawesome.css is a style sheet generated from https://fontawesome.com/kits/5f80e78a4d/setup
+            to be used to style the icon and many other props
 
-            *Todo.js :The Todo.js is used to provide a interactive interface to our todo listb website to trigger functional 
-            events like adding the task and deleting using addEventListener() method of dom
+            *Todo.js: The Todo.js is used to provide an interactive interface to our todo list website to trigger functional 
+            events like adding the task and deleting using the addEventListener() method of dom
 
-            *Background.jpg :Background.jpg is a Public domain image available at https://pixabay.com/images/search/to%20do%20list
+            *Background.jpg: Background.jpg is a Public domain image available at https://pixabay.com/images/search/to%20do%20list
 
-            *Database.php :The Database.php is used to establish connection to the sql database named "todo" in oredr to store task along with timestamp for creation and updation identified by a unique id.
+            *Database.php: Database.php is used to establish a connection to the SQL database named "todo" in order to store tasks along              with timestamps for creation and updation identified by a unique id.
 
-            *Task.php :The Task.php is used to register various task set by user and update database in the backend for each change in the tasks.   
+            *Task.php: Task.php is used to register various tasks set by the user and update the database in the backend for each change in the functions.   
