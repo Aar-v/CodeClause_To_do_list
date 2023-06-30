@@ -198,8 +198,8 @@
         ?>
         <div class="task">
             <span><?php echo $t['task'] ?></span>
-            <a href="ToDoList.php?action=edit&id=<?php echo $t['id'] ?>" class="edit button"><i class="fa fa-edit"></i></a>
-            <a onclick="return confirm('Do you want to delete this record?')" href="ToDoList.php?action=delete&id=<?php echo $t['id'] ?>" class="delete button"><i class="fa fa-trash-alt"></i></a>
+            <a href="index.php?action=edit&id=<?php echo $t['id'] ?>" class="edit button"><i class="fa fa-edit"></i></a>
+            <a onclick="return confirm('Do you want to delete this record?')" href="index.php?action=delete&id=<?php echo $t['id'] ?>" class="delete button"><i class="fa fa-trash-alt"></i></a>
         </div>
         <?php }} ?>
       </div>
